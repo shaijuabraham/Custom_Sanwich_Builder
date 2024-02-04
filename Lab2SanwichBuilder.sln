@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2SanwichBuilder", "Lab2SanwichBuilder\Lab2SanwichBuilder.csproj", "{FECC1259-45C4-4115-8667-5355A53953CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECC1259-45C4-4115-8667-5355A53953CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECC1259-45C4-4115-8667-5355A53953CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECC1259-45C4-4115-8667-5355A53953CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECC1259-45C4-4115-8667-5355A53953CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B10795-E055-4F24-A416-0AFC0FEBFD6A}
+	EndGlobalSection
+EndGlobal
